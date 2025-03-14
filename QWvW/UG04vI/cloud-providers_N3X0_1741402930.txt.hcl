@@ -25,5 +25,4 @@ project {
 
   # (OPTIONAL) Links to an upstream repo for determining repo relationships
   # This is for special cases and should not normally be set.
-  upstream = "GoogleCloudPlatform/magic-modules"
 }
